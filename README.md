@@ -20,8 +20,6 @@ This project demonstrates an end-to-end data analytics workflow to analyze custo
 - Analyzed purchase frequency and behavior patterns
 - Extracted insights on product performance and trends
 
-## 📷 Dashboard / Visuals
-(Add your screenshots here)
 
 ## 📌 Conclusion
 This project showcases the ability to convert raw data into actionable business insights using end-to-end analytics workflow.
